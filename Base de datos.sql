@@ -1,12 +1,6 @@
 --Tablas normales
 
-CREATE TABLE Clientes (
-    id_cliente SERIAL PRIMARY KEY,
-    rut VARCHAR(12) NOT NULL UNIQUE,
-    nombre VARCHAR(100) NOT NULL,
-    direccion VARCHAR(200),
-    telefono VARCHAR(15)
-);
+
 
 CREATE TABLE Categorias(
     id_categoria SERIAL PRIMARY KEY,
