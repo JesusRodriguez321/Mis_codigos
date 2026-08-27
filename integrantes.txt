@@ -1,0 +1,11 @@
+Nombre del equipo: informaticos
+Nombre completo de todos los integrantes:
+David Bravo
+Isidora Fernández
+Guillermo Tolentino
+Jesús Rodriguez
+Nicolás Venegas
+
+Sección P01
+Nombre del Scrum Master o jefe de equipo: Isidora Fernandez
+Rol o responsabilidad principal asumida por cada integrante: todos desarrolladores.
